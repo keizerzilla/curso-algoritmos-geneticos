@@ -1,6 +1,12 @@
 # Curso introdutório de Algoritmos Genéticos
 Curso de introdução a Algoritmos Genéticos, com menções honrosas aqui e ali sobre outros métodos evolutivos.
 
+## Instalando dependências
+
+```
+pip3 install --upgrade -r requirements.txt
+```
+
 ## Licença
 
 Este repositório (seu código-fonte e quaisquer outros elementos que o constitui) é provido "tal como ele é", sem nenhuma garantia explícita ou implícita. De maneira alguma os autores serão responsáveis por quaisquers danos oriundos do uso deste repositório.
